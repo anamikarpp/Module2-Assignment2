@@ -1,1 +1,2 @@
-
+Log records : Events that happen on our computer.
+We can use Windows Event Viewer.
